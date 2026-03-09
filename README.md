@@ -14,3 +14,6 @@ Java
 
 ## Author
 Vyshnavi.y
+## Output
+
+![Output](calculator_output.png)
