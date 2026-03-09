@@ -69,5 +69,5 @@ public class CalculatorWithHistory {
     }
 }
 ```
-![output](https://github.com/vyshu888/Calculator-With-History/blob/6c2ffbfc1b189756ce3fcee35203d5cf102e390a/command-line%20calculator%20with%20history.output.png)
+![output](command-line calculator with history.output.png)
 
