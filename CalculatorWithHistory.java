@@ -70,5 +70,5 @@ public class CalculatorWithHistory {
 }
 ```
 ## Output
-![Output](command-line calculator with history.output.png)
+![Output](calculator_output.png)
 
