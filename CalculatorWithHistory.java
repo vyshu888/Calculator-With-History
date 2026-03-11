@@ -69,6 +69,4 @@ public class CalculatorWithHistory {
     }
 }
 ```
-## Output
-![Output](calculator_output.png)
 
